@@ -27,6 +27,7 @@ print("5. para salir \n")
 
 Opcion_Select = int(input("Ingrese una opcion: \n"))
 
+# control de flujo de la calculadora
 if Opcion_Select == 5:
     print("Gracias por usar esta calculadora")
 elif Opcion_Select == 1:
